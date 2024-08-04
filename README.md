@@ -2,12 +2,9 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=006400&height=200&section=header&text=Bem-vindo!&fontColor=ffffff&fontSize=40&animation=fadeIn)
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/866ace42-4fd4-409e-b9a0-623067037ea7" alt="Minha Foto" width="200" style="border-radius:50%;"/>
-</div>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+new&color=00FF00&size=24&width=400&height=50&lines=Eu+sou+uma+desenvolvedora+apaixonada+por+tecnologia!;;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+new&color=00FF00&size=24&width=400&height=50&lines=Eu+sou+apaixonada+por+tecnologia!;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
 </h2>
 
 ## Sobre mim
