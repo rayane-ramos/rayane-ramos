@@ -4,7 +4,7 @@
 
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+new&color=00FF00&size=24&width=400&height=50&lines=Eu+sou+apaixonada+por+tecnologia!;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+new&color=00FF00&size=20&width=400&height=50&lines=Eu+sou+apaixonada+por+tecnologia!;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
 </h2>
 
 ## Sobre mim
