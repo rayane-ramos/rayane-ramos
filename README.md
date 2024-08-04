@@ -1,6 +1,6 @@
 
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=006400&height=200&section=header&text=Bem-vindo!&fontColor=ffffff&fontSize=40&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=C71585&height=200&section=header&text=Bem-vindo!&fontColor=ffffff&fontSize=40&animation=fadeIn)
 
 
 <h2 align="center">
