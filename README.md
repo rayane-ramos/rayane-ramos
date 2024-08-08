@@ -1,6 +1,6 @@
 
 
-![Cabeçalho](https://capsule-render.vercel.app/api?type=waving&color=C71585&size=20&width=400&height=50&lines=Bem-vindo!&fontColor=FFD700&fontSize=40&animation=fadeIn)
+![Cabeçalho](https://capsule-render.vercel.app/api?type=waving&color=C71585&size=400&width=40&height=100&lines=Bem-vindo!&fontColor=FFD700&fontSize=40&animation=fadeIn)
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+new&color=C71585&size=20&width=400&height=50&lines=Eu+sou+apaixonada+por+tecnologia!;Bem-vindo+ao+meu+perfil!" alt="Digitando SVG"/>
