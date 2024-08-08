@@ -21,3 +21,10 @@
   <!-- Streaks -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayane-ramos&theme=radical" alt="GitHub Streak" />
 </div>
+
+<dividir estilo="mostrar: bloco_em_linha"><br>
+  <imagem alinhar="Centro" alt="Rayane-Js" altura="30" largura="40" fonte="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <imagem alinhar="Centro" alt="Rayane-HTML" altura="30" largura="40" fonte="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <imagem alinhar="Centro" alt="Rayane-CSS" altura="30" largura="40" fonte="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+</dividir>
